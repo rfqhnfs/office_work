@@ -1,2 +1,6 @@
-# database_eo_brand
-leads on EO and Brand in Indonesia
+# OFFICE WORK
+
+contain:
+* leads
+* project timeline template
+* settlement template
